@@ -5,3 +5,4 @@
 3. MacFadden - Designer's Experience - https://www.youtube.com/watch?v=HTv7nk5Xrww&t=824s
 4. Start building taste - https://x.com/spottedinprod
 5. The joy of building slow - https://notbor.ing/words/the-joy-of-building-slow
+6. Developing taste - https://emilkowal.ski/ui/developing-taste
